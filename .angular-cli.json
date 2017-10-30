@@ -20,11 +20,11 @@
       "prefix": "recipes",
       "styles": [
         "styles.less",
-        "../node_modules/bootstrap/dist/css/bootstrap.css"
+        "../node_modules/uikit/dist/css/uikit.min.css"
       ],
       "scripts": [
-        "../node_modules/jquery/dist/jquery.js",
-        "../node_modules/bootstrap/dist/js/bootstrap.js"
+        "../node_modules/uikit/dist/js/uikit.min.js",
+        "../node_modules/uikit/dist/js/uikit-icons.min.js"
       ],
       "environmentSource": "environments/environment.ts",
       "environments": {
