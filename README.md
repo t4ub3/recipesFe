@@ -1,5 +1,7 @@
 # RecipesFe
 
+The frontend part of my [recipe application](https://github.com/t4ub3/recipes).
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.4.
 
 ## Development server
